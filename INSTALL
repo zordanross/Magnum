@@ -1,0 +1,9 @@
+Building magnum
+
+See doc/readme-qt.rst for instructions on building magnum-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of magnum.
+
+See doc/build-*.txt for instructions on building magnumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of magnum.
